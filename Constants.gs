@@ -17,6 +17,18 @@
 const notion_version = "2022-06-28";
 
 /**
+ * purpose: used for the Oauth
+ * type: str
+*/
+var CLIENT_ID = '';
+
+/**
+ * purpose: used for the Oauth
+ * type: str
+*/
+var CLIENT_SECRET = '';
+
+/**
  * purpose: the notion id for the semester database
  * type: str
 */
